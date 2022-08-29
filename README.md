@@ -1,1 +1,6 @@
 # csci_653_project
+
+This project aims to ...
+
+
+This project will utilize ...
