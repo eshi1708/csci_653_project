@@ -1,5 +1,4 @@
-# csci_653_project
-#Time Evolution of a Quantum State
+# csci_653_project: Time Evolution of a Quantum State
 
 This page will be updated with additional details as the project progresses.
 
